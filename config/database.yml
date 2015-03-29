@@ -1,0 +1,16 @@
+default: &local_defaults
+  adapter: postgresql
+  host: localhost
+  encoding: utf8
+  pool: 5
+  username: postgres
+  password: 123
+  min_messages: warning
+
+development:
+  <<: *local_defaults
+  database: PDS2_development
+
+test:
+  <<: *local_defaults
+  database: PDS2_test
