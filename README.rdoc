@@ -9,3 +9,5 @@ Equipe Aplha
 		Tiago Tobias
 		Álvaro Negreiros
 		Dannilo Rodrigues
+
+marcando presença no git.
