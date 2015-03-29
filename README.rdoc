@@ -1,3 +1,13 @@
 == README
 
 Sistema WEB para disciplina de Projeto e Desenvolvimento de Software - PDS
+
+Equipe Aplha
+
+	Culpados:
+
+		Tiago Tobias
+		Álvaro Negreiros
+		Dannilo Rodrigues
+
+marcando presença no git.
